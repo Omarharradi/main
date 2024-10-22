@@ -1,6 +1,6 @@
 # DEMO
 
-![DEMO](demo.gif)
+![DEMO](demo.gif) 
 
 # Hand Gesture Recognition & Control
 

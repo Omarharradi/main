@@ -3,7 +3,7 @@ import mediapipe as mp
 import pyautogui
 import time
 import numpy as np
-
+ 
 # Initialize MediaPipe Hands (use one hand)
 mp_hands = mp.solutions.hands
 hands = mp_hands.Hands(max_num_hands=1)  
